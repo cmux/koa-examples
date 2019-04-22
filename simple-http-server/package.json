@@ -1,0 +1,33 @@
+{
+    "name": "cmux-koa-example-simple-http-server",
+    "version": "1.0.0",
+    "description": "CMUX Koa server expample: Simple HTTP server",
+    "sideEffects": false,
+    "private": true,
+    "scripts": {
+        "start": "node start.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmux/koa-examples"
+    },
+    "keywords": [
+        "koa"
+    ],
+    "license": "Apache-2.0",
+    "author": {
+        "name": "diablohu",
+        "email": "diablohudream@gmail.com",
+        "url": "http://diablohu.com"
+    },
+    "bugs": {
+        "url": "https://github.com/cmux/koa-examples/issues"
+    },
+    "homepage": "https://github.com/cmux/koa-examples",
+    "engines": {
+        "node": ">=8.0.0"
+    },
+    "dependencies": {
+        "koa": "2.7.0"
+    }
+}
